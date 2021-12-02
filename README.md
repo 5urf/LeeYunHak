@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### contact
-<a href="dbsgkr0203@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=Gmail&logo=Gmail&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dbsgkr0203@gmail.com)
